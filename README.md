@@ -1,16 +1,14 @@
-## Hi there 👋
+# Heyo!
 
-<!--
-**AAndresen875/AAndresen875** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Anna, and I am a developer specializing in data engineering and scientific computing for nature based climate solutions. </br>
+The applications I've built have worked on span across multiple industries including: </br>
+* Agriculture
+* Environmental Toxicology
+* Biotechnology
+* Green Infrastructure
+* Oil and Energy
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: She/her
+- ♉ Zodiac: Taurus sun, Aquarius moon, virgo rising
+- 📫 How to reach me:
+    - [linkedin](https://www.linkedin.com/in/anna-andresen/)
