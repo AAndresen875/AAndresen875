@@ -1,6 +1,6 @@
 # Heyo!
 
-My name is Anna, and I am a developer specializing in data engineering and scientific computing for nature based climate solutions. </br>
+My name is Anna, and I am a developer specialising in data engineering and scientific computing for nature-based climate solutions. </br>
 The applications I've built have worked on span across multiple industries including: </br>
 * Agriculture
 * Environmental Toxicology
@@ -9,9 +9,10 @@ The applications I've built have worked on span across multiple industries inclu
 * Oil and Energy
 
 - 😄 Pronouns: She/her
-- ♉ Zodiac: Taurus sun, Aquarius moon, virgo rising
+- ♉ Zodiac: Taurus sun, Aquarius moon, Virgo rising
 - 📫 How to reach me: message me on linkedin
 
+Note: my professional contributions do not connect to this github account.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anna-andresen/) 
